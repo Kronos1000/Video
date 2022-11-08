@@ -1,0 +1,4 @@
+C:\Users\Patrick\Documents\GitHub\Video\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Patrick\Documents\GitHub\Video\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\Patrick\Documents\GitHub\Video\obj\Release\net6.0\linux-x64\PubTmp\Out\Video.pdb
+C:\Users\Patrick\Documents\GitHub\Video\obj\Release\net6.0\linux-x64\PubTmp\Out\Video

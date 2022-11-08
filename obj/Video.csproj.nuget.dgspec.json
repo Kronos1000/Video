@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video\\Video.csproj": {}
+    "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video\\Video.csproj": {
+    "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video\\Video.csproj",
+        "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video.csproj",
         "projectName": "Video",
-        "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video\\Video.csproj",
+        "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video.csproj",
         "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\Video\\obj\\",
+        "outputPath": "C:\\Users\\Patrick\\Documents\\GitHub\\Video\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
